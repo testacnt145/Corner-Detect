@@ -23,6 +23,8 @@
 
 
 ## Shayan
+- https://stackoverflow.com/questions/70290186/detect-bill-receipts-from-image-on-android
+---
 - https://teresa-wu.medium.com/googles-ml-kit-text-recognition-with-sample-app-of-receipts-reading-7fe6dc68ada3
 - Detection of four corners of a document under different circumstances (https://stackoverflow.com/a/46203950/4754141)
 
