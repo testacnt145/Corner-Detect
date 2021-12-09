@@ -16,3 +16,7 @@ Open CV libraries
 Paid SDK
 - https://geniusscansdk.com/
 - https://dev.camcard.com/?language=en-us
+
+<a href="https://dev.camscanner.com/"><img src="images/cam-scanner-1.jpg"/></a> 
+<a href="https://dev.camscanner.com/"><img src="images/cam-scanner-2.jpg"/></a> 
+<a href="https://dev.camscanner.com/"><img src="images/cam-scanner-3.jpg"/></a> 
